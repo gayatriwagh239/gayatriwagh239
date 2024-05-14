@@ -4,7 +4,7 @@
 - 👀 I’m interested in Data Analytics, Data Science and Machine Learning.
 - 🌱 I’m currently learning Data Analytics, Data Science and exploring Machine Learning Algorithms.
 - 💞️ I’m looking to collaborate on open-source projects related to Data Analytics, Data Science and Machine Learning.
-- 📫 How to reach me: You can Email me at [Email-Id - gayatriwagh239@gmail.com] or connect with me on [LinkedIn](www.linkedin.com/in/gayatri-wagh-83764b28a).
+- 📫 How to reach me: You can Email me at [Email-Id - gayatriwagh239@gmail.com] or connect with me on [LinkedIn(www.linkedin.com/in/gayatri-wagh-83764b28a)].
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love travelling!
 ## Skills and Technologies
